@@ -1,0 +1,6 @@
+Pavithra Language
+vowels -> p
+--------------
+##Where we use the Vowels Statements : "a, e, i, o, u"
+dog -> dpp
+cat -> cpt
